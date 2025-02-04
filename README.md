@@ -24,6 +24,12 @@ Hi, I'm Sk Ajimuddin (Azim), a passionate web developer specializing in the MERN
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/skajimuddin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/skajimuddin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/skajimuddin/output/github-snake.svg" />
+</picture>
+
 <!--
 **Azim-me/Azim-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
