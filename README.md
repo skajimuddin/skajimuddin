@@ -25,9 +25,9 @@ Hi, I'm Sk Ajimuddin (Azim), a passionate web developer specializing in the MERN
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/skajimuddin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/skajimuddin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/skajimuddin/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skajimuddin/skajimuddin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skajimuddin/skajimuddin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/skajimuddin/skajimuddin/output/github-snake.svg" />
 </picture>
 
 <!--
